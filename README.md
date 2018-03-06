@@ -2,7 +2,8 @@
 （My research Area）
 =============================
 The repository including Relevant papers and corresponding codes（1.Instance-based Transfer Learning;  2.Feature-based Transfer Learning; 3.Model-based Transfer Learning; 4.Domain Adaptation; 5.Adversarial Transfer Learning;  6.Online Transfer Learning）
------------------------------------------------------------------------------------------------------------------------
+声明：本库部分内容借鉴于中科院王金东博士所总结的迁移学习相关资料，相关内容只用于学术研究，在这里感谢王博士能够总结迁移学习相关学习知识；鉴于本人初次整理相关资料，有任何不合理之处，请批评指正！！E-mail:ycdreaming@outlook.com /YCdreaming@zjut.edu.cn
+-------------------------------------------------------------------------------------------------------------------------------------
 # 目录 Contents
 * [I. 迁移学习概述]()
 * [II. 迁移学习相关研究学者]()
