@@ -39,3 +39,6 @@ The repository including Relevant papers and corresponding codes（1.Instance-ba
 
 ## VII. 迁移学习应用多目标优化
 
+
+# VIII. 迁移学习应用于过程软测量建模
+
